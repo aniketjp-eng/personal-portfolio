@@ -61,10 +61,10 @@
               <span class="stat-label">Projects Shipped</span>
             </div>
             <div class="stat-divider"></div>
-            <div class="stat">
-              <span class="stat-num">60+</span>
-              <span class="stat-label">LeetCode Problems</span>
-            </div>
+           <div class="stat">
+    <span class="stat-num" id="leetcode-count">0+</span>
+    <span class="stat-label">LeetCode Problems</span>
+</div>
             <div class="stat-divider"></div>
             <div class="stat">
               <span class="stat-num">MERN</span>
@@ -449,7 +449,7 @@
         Copyright &copy; 2026 &nbsp;·&nbsp; Made with <i class="fa-solid fa-heart"></i> by Aniket Prajapati
       </p>
     </footer>
-
+    <!-- <script src="api/leetcode.js"></script> -->
     <script>
       const scriptURL =
         "https://script.google.com/macros/s/AKfycbyrgFgJfobtpmFcCz360T-V3xrYEf9SzsQhbEBrciJ5Iz5Shavtt1oqY7uo89q5QxUgHA/exec";
@@ -466,6 +466,14 @@
           })
           .catch((error) => console.error("Error!", error.message));
       });
+
+        fetch("/api/leetcode")
+    .then((res) => res.json())
+    .then((data) => {
+      document.getElementById("leetcode-count").textContent =
+        data.solved + "+";
+    })
+    .catch((err) => console.error(err));
     </script>
   </body>
 </html>
