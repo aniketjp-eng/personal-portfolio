@@ -223,7 +223,10 @@ img { display: block; max-width: 100%; }
     linear-gradient(135deg, rgba(40,215,167,0.2), rgba(109,168,255,0.13)),
     rgba(255,255,255,0.05);
   box-shadow: var(--shadow);
-  padding: 32px;
+  /* padding: 32px; */
+}
+.hero-card img {
+    border-radius: 28px;
 }
 .hero-card-monogram {
   font-family: "Playfair Display", serif;
