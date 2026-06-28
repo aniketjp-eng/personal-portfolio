@@ -2,7 +2,7 @@
 A modern and responsive personal portfolio website showcasing my projects, technical skills, and software engineering journey.
 
 ## 🚀 Live Demo
-🔗 **Portfolio:** [Access Link]
+🔗 **Portfolio:** [Access Link](https://personal-portfolio-two-lyart-g8ug956fme.vercel.app/)
 
 ## 📌 Features
 * Responsive design for desktop and mobile
@@ -29,7 +29,7 @@ A modern and responsive personal portfolio website showcasing my projects, techn
 
 
 ## 📸 Preview
-![Portfolio Preview](Portfolio.png)
+![Portfolio Preview](/Simple-Personal-Porfolio/Portfolio_View/Portfolio.png)
 
 ## 👨‍💻 About Me
 I'm **Aniket Prajapati**, a Software Engineering enthusiast focused on:
