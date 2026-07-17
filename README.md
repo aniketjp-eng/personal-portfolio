@@ -31,17 +31,6 @@ A modern and responsive personal portfolio website showcasing my projects, techn
 ## 📸 Preview
 ![Portfolio Preview](/Simple-Personal-Porfolio/Portfolio_View/Portfolio.png)
 
-## 👨‍💻 About Me
-I'm **Aniket Prajapati**, a Software Engineering enthusiast focused on:
-* Full-Stack MERN Development
-* Java & Data Structures and Algorithms
-* REST API Development
-* Clean UI/UX
-* Problem Solving
-
-Currently preparing for **SDE-1** and **Software Engineering Internship** opportunities.
-## 🌟 Featured Projects
-
 ### 🤖 BlogForge – AI Powered Blog Platform
 A full-stack MERN blogging platform featuring JWT authentication, ImageKit integration, and Google Gemini AI for content enhancement.
 
@@ -53,9 +42,6 @@ A responsive portfolio website showcasing my skills, projects, and professional 
 
 ## 📬 Contact
 * 📧 Email: **[aniketjp.eng@gmail.com](mailto:aniketjp.eng@gmail.com)**
-* 💼 LinkedIn: https://www.linkedin.com/in/aniket-prajapati-641611276/
-* 💻 GitHub: https://github.com/aniketjp-eng
-* 🧩 LeetCode: https://leetcode.com/u/55k72silsv/
 
 
 ## ⭐ If you like this project
