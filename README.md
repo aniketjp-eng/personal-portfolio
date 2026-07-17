@@ -53,9 +53,6 @@ A responsive portfolio website showcasing my skills, projects, and professional 
 
 ## 📬 Contact
 * 📧 Email: **[aniketjp.eng@gmail.com](mailto:aniketjp.eng@gmail.com)**
-* 💼 LinkedIn: https://www.linkedin.com/in/aniket-prajapati-641611276/
-* 💻 GitHub: https://github.com/aniketjp-eng
-* 🧩 LeetCode: https://leetcode.com/u/55k72silsv/
 
 
 ## ⭐ If you like this project
